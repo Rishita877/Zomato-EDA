@@ -12,16 +12,27 @@ This project explores Zomato restaurant data to understand customer preferences,
 - Jupyter Notebook
 
 ## Key Insights
-- Dining restaurants receive the highest customer engagement.
-- Restaurants with online ordering tend to attract more votes.
-- Most ratings fall between 3.5 and 4.5.
-- Popular restaurants generally have higher customer interaction.
+- ####Dining restaurants receive the highest customer engagement.
 
-## Visualizations
-- Restaurant Type Distribution
-- Rating Distribution
-- Online Order Analysis
-- Correlation Heatmap
+  ![Image 1](Result_images/img1.png)
+
+  
+- ####Dining Restaurants are more preferred by people.
+
+   ![Image 2](Result_images/img2.png)
+
+  
+- ####Majority of couples prefer approx 300rs.
+
+   ![Image 3](Result_images/img3.png)
+
+  
+- ####Most ratings fall between 3.5 and 4.5.
+
+   ![Image 4](Result_images/img4.png)
+
+  and much more....
+
 
 ## 📈 Business Recommendations
 
